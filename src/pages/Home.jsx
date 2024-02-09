@@ -9,6 +9,9 @@ const Home = () => {
       <Link to="/exchange">
         <button>Go to Exchange</button>
       </Link>
+      <Link to="/exchange-table">
+        <button>Check the Exchange Rate Table</button>
+      </Link>
     </div>
   );
 };
